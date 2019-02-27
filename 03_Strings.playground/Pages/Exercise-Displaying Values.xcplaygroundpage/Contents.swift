@@ -14,7 +14,10 @@
  
  _Hint:_ Do all of your calculations in megabytes.
  */
-
+let video = 150
+let phoneStorage = 5000
+let calculation = phoneStorage/video
+let finalCalc = "You can record \(calculation) more minutes of video"
 
 
 
